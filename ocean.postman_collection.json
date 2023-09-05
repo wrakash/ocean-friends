@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "1dfae0dc-68a3-49af-a29a-2d31273b3228",
+		"name": "ocean",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13748202"
+	},
+	"item": [
+		{
+			"name": "update",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"sessionDate\":\"01-01-23\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ocean_url}}/SGe55ab0-a23e-4711-9972-dd9562b75c44",
+					"host": [
+						"{{ocean_url}}"
+					],
+					"path": [
+						"SGe55ab0-a23e-4711-9972-dd9562b75c44"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "gets",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{ocean_url}}",
+					"host": [
+						"{{ocean_url}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{ocean_url}}/SGe55ab0-a23e-4711-9972-dd9562b75c44",
+					"host": [
+						"{{ocean_url}}"
+					],
+					"path": [
+						"SGe55ab0-a23e-4711-9972-dd9562b75c44"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
