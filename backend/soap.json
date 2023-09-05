@@ -1,0 +1,169 @@
+[
+  {
+    "soap": {
+      "objectiveNotes": {
+        "saved": "",
+        "isDisabled": false,
+        "isFlowForwarded": true,
+        "ff": "",
+        "original": []
+      },
+      "goals": [
+        {
+          "longTermGoals": [
+            {
+              "assessment": {
+                "aiExpanded": true,
+                "ai": "• The patient demonstrated good progress in picking up objects, achieving 80% accuracy.\n• The patient's final goal is not specified, indicating a need for clarification in treatment planning.\n• The next step in therapy is for the patient to use one icon to label 20 objects and 10 actions, with cues gradually fading to no cues, aiming for 70% accuracy.\n• It would be beneficial to establish a clear goal for the patient's therapy to ensure focused and effective treatment.\n• Regular assessments should be conducted to track progress and adjust therapy goals accordingly.",
+                "isDisabled": false,
+                "isFlowForwarded": true,
+                "ff": "",
+                "original": "",
+                "isOriginal": true,
+                "saved": "• The patient demonstrated good progress in picking up objects, achieving 80% accuracy.\n• The patient's final goal is not specified, indicating a need for clarification in treatment planning.\n• The next step in therapy is for the patient to use one icon to label 20 objects and 10 actions, with cues gradually fading to no cues, aiming for 70% accuracy."
+              },
+              "homework": {
+                "aiExpanded": true,
+                "ai": "•Practice labeling 10 different objects using the icon provided, gradually reducing the amount of cues given until you can label them accurately with no cues.Take 10 different actions, such as brushing your teeth or opening a door, and label each action using the icon provided. Aim for 70% accuracy without any cues.Find 5 new objects around your home and label them using the icon. Try to label them accurately with no cues.Choose 5 actions from a list (e.g., running, eating, writing) and label each action using the icon. Strive for 70% accuracy without any cues.Create flashcards with pictures of various objects and actions. Practice labeling them using the icon, gradually reducing the amount of cues given until you can accurately label them with no cues.\n",
+                "isDisabled": false,
+                "isFlowForwarded": true,
+                "ff": "",
+                "saved": "•Practice labeling 10 different objects using the icon provided, gradually reducing the amount of cues given until you can label them accurately with no cues.Take 10 different actions, such as brushing your teeth or opening a door, and label each action using the icon provided. Aim for 70% accuracy without any cues.Find 5 new objects around your home and label them using the icon. Try to label them accurately with no cues."
+              },
+              "shortTermGoals": [
+                {
+                  "target": 100,
+                  "goalType": "boolean",
+                  "shortTermGoal": "patient will use one icon to label 20 objects and 10 actions given maximum cues fading to no cues with 70% accuracy.",
+                  "trackers": [
+                    {
+                      "objectiveFF": [
+                        {
+                          "goalType": "percentage",
+                          "date": "01-01-2001",
+                          "cue": "moderate",
+                          "accuracyP": "60",
+                          "unit": "%",
+                          "task": "good test 60% moderate",
+                          "accuracyF": null,
+                          "timestamp": 978330600,
+                          "accuracyR": null
+                        }
+                      ],
+                      "tracker": "will use one icon to label 20 objects.",
+                      "id": "TR0fb07d-a8c5-448c-bb08-fd6fb7f524ce",
+                      "objective": {
+                        "goalType": "boolean",
+                        "isEdited": true,
+                        "cue": "independent",
+                        "accuracyP": "100",
+                        "unit": "yes/no",
+                        "task": " picked up 16 objects 80% accuracy",
+                        "editedField": "accuracyP",
+                        "accuracyF": null,
+                        "accuracyR": null,
+                        "msgId": "f208778a-758d-4d32-bda2-4e19a64a0e4a"
+                      }
+                    }
+                  ],
+                  "id": "SGe55ab0-a23e-4711-9972-dd9562b75c44",
+                  "isFlowForwarded": true
+                },
+                {
+                  "target": 2200,
+                  "goalType": "boolean",
+                  "shortTermGoal": "patient will use one icon to label 20 objects and 10 actions given maximum cues fading to no cues with 70% accuracy.",
+                  "trackers": [
+                    {
+                      "objectiveFF": [
+                        {
+                          "goalType": "percentage",
+                          "date": "01-01-2001",
+                          "cue": "moderate",
+                          "accuracyP": "60",
+                          "unit": "%",
+                          "task": "good test 60% moderate",
+                          "accuracyF": null,
+                          "timestamp": 978330600,
+                          "accuracyR": null
+                        }
+                      ],
+                      "tracker": "will use one icon to label 20 objects.",
+                      "id": "TR0fb07d-a8c5-448c-bb08-fd6fb7f524ce",
+                      "objective": {
+                        "goalType": "boolean",
+                        "isEdited": true,
+                        "cue": "independent",
+                        "accuracyP": "100",
+                        "unit": "yes/no",
+                        "task": " picked up 16 objects 80% accuracy",
+                        "editedField": "accuracyP",
+                        "accuracyF": null,
+                        "accuracyR": null,
+                        "msgId": "f208778a-758d-4d32-bda2-4e19a64a0e4a"
+                      }
+                    }
+                  ],
+                  "id": "SGe55ab0-a23e-4711-9972-dd9562b75c44",
+                  "isFlowForwarded": true
+                }
+              ],
+              "plan": {
+                "aiExpanded": true,
+                "ai": "• Continue working on object labeling using one icon for 20 objects and 10 actions, gradually reducing cues until reaching 70% accuracy.\n• Increase the number of objects picked up to 20, aiming for 80% accuracy.\n• Introduce additional tasks to enhance cognitive and fine motor skills.\n• Monitor progress and make necessary adjustments to the plan as needed.",
+                "isDisabled": false,
+                "isFlowForwarded": true,
+                "ff": "",
+                "original": "",
+                "isOriginal": true,
+                "saved": "• Continue working on object labeling using one icon for 20 objects and 10 actions, gradually reducing cues until reaching 70% accuracy.\n• Increase the number of objects picked up to 20, aiming for 80% accuracy.\n• Introduce additional tasks to enhance cognitive and fine motor skills.\n• Monitor progress and make necessary adjustments to the plan as needed."
+              },
+              "id": "LG6d4aae-274e-4598-a162-8f087da6c0f1",
+              "longTermGoal": "patient will achieve augmentative and alternative communication skills that are functional as compared to same-aged peers, functional to expected developmental potential or until intervention is no longer beneficial."
+            }
+          ],
+          "longTermGoalType": "Augmentative/Alternative Comm."
+        }
+      ],
+      "subjective": {
+        "aiExpanded": true,
+        "ai": [],
+        "saved": "",
+        "isOriginal": true,
+        "isDisabled": false,
+        "original": []
+      }
+    },
+    "billingCodes": [
+      {
+        "qty": "1",
+        "price": "235",
+        "type": "2",
+        "desc": "Speech / Feeding Therapy1",
+        "min": "30",
+        "code": "92570"
+      },
+      {
+        "qty": "1",
+        "price": "235",
+        "type": "2",
+        "desc": "Speech / Feeding Therapy2",
+        "min": "30",
+        "code": "92571"
+      },
+      {
+        "qty": "1",
+        "price": "235",
+        "type": "2",
+        "desc": "Speech / Feeding Therapy3",
+        "min": "30",
+        "code": "92572"
+      }
+    ],
+    "isSubmitted": true,
+    "sessionDate": "2021-12-31T18:30:00.000Z",
+    "therapist": "manish shukla",
+    "claimStatus": "notCreated",
+    "id": "SGe55ab0-a23e-4711-9972-dd9562b75c44"
+  }
+]
